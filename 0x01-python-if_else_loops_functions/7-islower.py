@@ -1,4 +1,4 @@
-#!/bin/usr/python3
+#!/bin/usr/bash
 def islower(c):
     if ord(c) >= ord('a') and ord(c) <= ord('z'):
         return True
